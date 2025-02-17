@@ -37,3 +37,4 @@ The dashboard provides a number of benefits to the company, including:
 ## Conclusion
 The dashboard monitors energy consumption and improve energy efficiency. It is a valuable asset for any company that is looking to reduce its energy costs and improve its sustainability.
 
+#### Project inspiration taken from [Medium](https://nks96.medium.com/energy-consumption-dashboard-using-power-bi-8d62b2c018e1)
