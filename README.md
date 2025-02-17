@@ -26,13 +26,13 @@ This allowed for a robust relationship to be established
 ![image](https://github.com/user-attachments/assets/d25c2049-f23f-418f-85aa-0d89257d7b1c)
 
 
-4. Data Modeling (Power BI): Relationships were established between the Energy Consumption table and the Building Master table (using the "Building" column)
+3. Data Modeling (Power BI): Relationships were established between the Energy Consumption table and the Building Master table (using the "Building" column)
 and between the Energy Consumption table and the Rates table (using the newly created "ID" column).
 
 ![image](https://github.com/user-attachments/assets/f8a8f893-9d3e-4fcf-ba70-8991da052c68)
 
 
-6. DAX Measures for Analysis: Several DAX measures were created to derive key metrics:
+4. DAX Measures for Analysis: Several DAX measures were created to derive key metrics:
 
 ```` sql 
 -  Cities Presence = DISTINCTCOUNT('Building Master'[City])
