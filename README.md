@@ -1,4 +1,4 @@
-# Energy-Consumption Dashboard🔌💧🔥
+# Energy Consumption Dashboard🔌💧🔥
 ![Energy](https://github.com/user-attachments/assets/1fa61617-7b12-46db-b7dc-ea7346ebb734)
 
 ## Introduction
